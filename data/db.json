@@ -1,0 +1,339 @@
+{
+  "solutions": [
+    {
+      "id": 1,
+      "word": "alcazaba",
+      "definition": ""
+    },
+    {
+      "id": 2,
+      "word": "aliquindoi",
+      "definition": ""
+    },
+    {
+      "id": 3,
+      "word": "apaguatao",
+      "definition": ""
+    },
+    {
+      "id": 4,
+      "word": "aro",
+      "definition": ""
+    },
+    {
+      "id": 5,
+      "word": "arrecio",
+      "definition": ""
+    },
+    {
+      "id": 6,
+      "word": "biznaga",
+      "definition": ""
+    },
+    {
+      "id": 7,
+      "word": "boqueron",
+      "definition": ""
+    },
+    {
+      "id": 8,
+      "word": "bulla",
+      "definition": ""
+    },
+    {
+      "id": 9,
+      "word": "campero",
+      "definition": ""
+    },
+    {
+      "id": 10,
+      "word": "cenachero",
+      "definition": ""
+    },
+    {
+      "id": 11,
+      "word": "chacina",
+      "definition": ""
+    },
+    {
+      "id": 12,
+      "word": "changuay",
+      "definition": ""
+    },
+    {
+      "id": 13,
+      "word": "charro",
+      "definition": ""
+    },
+    {
+      "id": 14,
+      "word": "chavea",
+      "definition": ""
+    },
+    {
+      "id": 15,
+      "word": "chicharo",
+      "definition": ""
+    },
+    {
+      "id": 16,
+      "word": "chopito",
+      "definition": ""
+    },
+    {
+      "id": 17,
+      "word": "chorla",
+      "definition": ""
+    },
+    {
+      "id": 18,
+      "word": "chorra",
+      "definition": ""
+    },
+    {
+      "id": 20,
+      "word": "chorraera",
+      "definition": ""
+    },
+    {
+      "id": 21,
+      "word": "chumina",
+      "definition": ""
+    },
+    {
+      "id": 22,
+      "word": "cuajao",
+      "definition": ""
+    },
+    {
+      "id": 23,
+      "word": "cusha",
+      "definition": ""
+    },
+    {
+      "id": 24,
+      "word": "daleao",
+      "definition": ""
+    },
+    {
+      "id": 25,
+      "word": "esmallao",
+      "definition": ""
+    },
+    {
+      "id": 26,
+      "word": "fanguto",
+      "definition": ""
+    },
+    {
+      "id": 27,
+      "word": "fatiga",
+      "definition": ""
+    },
+    {
+      "id": 28,
+      "word": "fite",
+      "definition": ""
+    },
+    {
+      "id": 29,
+      "word": "gachi",
+      "definition": ""
+    },
+    {
+      "id": 30,
+      "word": "golismear",
+      "definition": ""
+    },
+    {
+      "id": 31,
+      "word": "guarnio",
+      "definition": ""
+    },
+    {
+      "id": 32,
+      "word": "guarrito",
+      "definition": ""
+    },
+    {
+      "id": 33,
+      "word": "guita",
+      "definition": ""
+    },
+    {
+      "id": 34,
+      "word": "jabega",
+      "definition": ""
+    },
+    {
+      "id": 35,
+      "word": "jamacuco",
+      "definition": ""
+    },
+    {
+      "id": 36,
+      "word": "jarto",
+      "definition": ""
+    },
+    {
+      "id": 37,
+      "word": "jiñao",
+      "definition": ""
+    },
+    {
+      "id": 38,
+      "word": "joio",
+      "definition": ""
+    },
+    {
+      "id": 39,
+      "word": "majaron",
+      "definition": ""
+    },
+    {
+      "id": 40,
+      "word": "melillero",
+      "definition": ""
+    },
+    {
+      "id": 41,
+      "word": "merdellon",
+      "definition": ""
+    },
+    {
+      "id": 42,
+      "word": "mihita",
+      "definition": ""
+    },
+    {
+      "id": 43,
+      "word": "nove",
+      "definition": ""
+    },
+    {
+      "id": 44,
+      "word": "palodu",
+      "definition": ""
+    },
+    {
+      "id": 45,
+      "word": "pecha",
+      "definition": ""
+    },
+    {
+      "id": 46,
+      "word": "perita",
+      "definition": ""
+    },
+    {
+      "id": 47,
+      "word": "pesqui",
+      "definition": ""
+    },
+    {
+      "id": 48,
+      "word": "piarda",
+      "definition": ""
+    },
+    {
+      "id": 49,
+      "word": "pirula",
+      "definition": ""
+    },
+    {
+      "id": 50,
+      "word": "poloflan",
+      "definition": ""
+    },
+    {
+      "id": 51,
+      "word": "tenis",
+      "definition": ""
+    },
+    {
+      "id": 52,
+      "word": "zaborio",
+      "definition": ""
+    }
+  ],
+  "letters": [
+    {
+      "key": "a"
+    },
+    {
+      "key": "b"
+    },
+    {
+      "key": "c"
+    },
+    {
+      "key": "d"
+    },
+    {
+      "key": "e"
+    },
+    {
+      "key": "f"
+    },
+    {
+      "key": "g"
+    },
+    {
+      "key": "h"
+    },
+    {
+      "key": "i"
+    },
+    {
+      "key": "j"
+    },
+    {
+      "key": "k"
+    },
+    {
+      "key": "l"
+    },
+    {
+      "key": "m"
+    },
+    {
+      "key": "n"
+    },
+    {
+      "key": "o"
+    },
+    {
+      "key": "p"
+    },
+    {
+      "key": "q"
+    },
+    {
+      "key": "r"
+    },
+    {
+      "key": "s"
+    },
+    {
+      "key": "t"
+    },
+    {
+      "key": "u"
+    },
+    {
+      "key": "v"
+    },
+    {
+      "key": "w"
+    },
+    {
+      "key": "x"
+    },
+    {
+      "key": "y"
+    },
+    {
+      "key": "z"
+    }
+  ]
+}
